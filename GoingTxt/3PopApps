@@ -1,0 +1,32 @@
+Email Apps
+
+1. Sendmail
+2. Mutt
+3. Alpine
+
+"Office" Apps
+
+1. SC and SC-IM
+
+	SC (screen calculator), aka, a spreadsheet for text mode
+		- it does all the basic stuffs that 'Exel' or 'Google Sheet' does through the keyboard and text screen
+		- it saves all its files in .cvs (comma-separated values)
+		- it can read in Excel files (how about a Google sheet file?)
+		- allows text alignment (left, right, center?), cut and paste, various decimal formatting options, and a huge number of calculation and math functions (stat fts?)
+
+2. Presentation
+
+	- Beamer <LaTeX>
+	- Vimdeck: a tool that allows to write a file using markdown and compile it into a presentation that can be viewed using VIM
+	- MDP: an app that actually runs a presentation in text. While Beamer and Vimdeck are tools to create presentation files, MDP takes markdown text and present it with many nice options, color, citations, headers, nested lists, etc. But no graphics supprot.
+
+
+"Notes" Apps
+
+1. Terminal Velocity
+2. Emacs Org Mode
+
+
+
+
+

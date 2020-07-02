@@ -1,0 +1,17 @@
+Using the Command Line: The Tools
+
+1. Tmux <Terminal Multiplexer>
+
+2. Terminator (Linux only)
+
+Using the CLP : The Apps
+
+*** VIM
+
+Vim is a 'modal' editor, meaning: you move around in one mode, type text in another mode and visually select things in a third mode.
+
+*** EMACS
+
+* Wordgrinder	a word processor designed for writers. Easy-to-use menus, the arrow keys work like expected. Just a very few surprises: can make words bold or italic easily right in the text. Not very customizable; it works pretty much as it comes. There aren't any plug-ins or fancy themes. However, it's reliable, simple to use.
+
+

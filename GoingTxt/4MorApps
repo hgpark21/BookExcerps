@@ -1,0 +1,65 @@
+More Apps
+
+1. Pass	a password management system
+	- can keep track of a database of thousands of web sites and passwords
+	- esp. useful in creating secure passwords
+	- can customize a password with specfic number of symbols
+	- can generate what you need, completely randomly and copied it to the clipboard
+
+2. Web Browsers
+
+	- Lynx: the oldest text-based web browser, stable and safe, doesn't work with sites requiring JavaScript but handles cookies
+
+	- W3M: supports tables, frames, SSL connections, color, and inline images on suitable terminals; it is most actively-maintained
+
+	- ELinks: the most "modern looking", has a color display and navigation menus (<ESC>), supports the mouse tabs, cookies, and more
+
+3. Communications
+
+	- IRC (Internet Relay Chat) via WeeChat and IRSSI
+		: offer scripting, plug-ins, themes, help screens, and more
+
+	- VOIP (not reliable!)
+
+4. Social Media
+
+	- Twitter - Rainbow Stream
+	- Facebook - no "regular" Facebook client for the command line, but there is a CL client for Facebook Messenger
+
+5. Graphics, Art, and Photos
+
+	- Asciiview: displays a photo or images on a text-only terminal
+
+		| sudo apt-get install aview
+		| aview photo.bmp		# bmp='bitmap'
+
+	- Figlet: a "little" CL tool to take a line of text and make a banner from it
+
+	- ImageMagick
+		: has tools to creat, edit, compose, or convert bmp images
+		: can read and write images in many formats [png jpg gif heic tiff pdf etc]
+
+6. Audio and Vidoe
+
+	- Music Players: MOC (Music on Console) and CMUS (C Music Player)
+	- MPC/MPD (Music Play Controller/Daemon)
+	- MPlayer a movie player
+
+7. News and Weather
+
+8. Books, Comics, and Reading
+
+	- EPUB Docs
+
+		https:github.com/rupa/epub
+		epub filename.epub
+
+	- Non-EPUB formats
+
+9. Task Management
+
+	- Calcurse: a text-based calendar, schedular, and to-do manager for the command line. 
+		. allows customizatons of colors, the layout of the three main section, and more
+	- Todo.txt
+	- SwiftoDo
+
