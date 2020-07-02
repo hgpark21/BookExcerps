@@ -1,0 +1,39 @@
+Title: 	Going Text
+Subtitle:	Matering the Power of the Command Line
+Author:	Brian Schell (Email: brian@brainshell.com)
+Date:	July 25, 2018
+
+How to Use Command Lines in Smartphone, Tablet, and Chromebook
+
+- using SSH to log into a <remote server>
+- What is a Remote Server? A remote server is a computer that runs Linux that isn't the device you are using. You connect to a <remote server> and log in through the Internet.
+- The <Termius> app for Android or iOS
+
+SSH (Secure Shell)
+PuTTY	a SSH terminal app similar to Termius
+
+PowerShell and Command Line (for Windows 10?)
+
+WSL (Windows Subsystem for Linux)
+
+- overview and tutorial from MS
+- it allows to run many major text-only allps created for Linux within a CLP (command line prompt) on Windows
+
+1. Start Windows normally
+2. Launch the Linux System from menu like any other app
+3. You have a Linux command line
+
+Why UBUNTU?
+
+. Ubuntu can be installed on most computerw (without issues)
+. It's so popular that it's in constant development and it won't disappear anytime soon
+
+Apple Package Management
+
+- Instead of 'apt-get install' you need to use "Homebrew" or something similar
+- The so-called "package manager" for MacOS from https://brew.sh/
+  It allows you easily install command line tools:
+
+	| brew install package_name
+
+ 
